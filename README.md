@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm Ostap, a 3rd-year Computer Science student.
+I'm Ostap, a 3rd-year Computer Science student. Currently learning Flutter and Dart.
 
 ### Tech Stack
 
@@ -13,7 +13,6 @@ I'm Ostap, a 3rd-year Computer Science student.
 * **Operating systems:** Linux, Windows, MacOS
 * **Others:** OOP, SOLID, REST API, MVVM, MVC, MVI
 
-I'm currently learning flutter and dart
 
 <!--
 **ostap-khomiak/ostap-khomiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
