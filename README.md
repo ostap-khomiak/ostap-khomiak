@@ -8,7 +8,7 @@ I'm Ostap, a 3rd-year Computer Science student.
 * **Languages:** Kotlin, Java, Python, C#, C++
 * **Technologies:** Jetpack Compose, Android SDK, Dagger, Hilt, Docker, Unit Tests, EF Core, Retrofit
 * **Web:** JavaScript, HTML, CSS
-* **Databases:** Oracle SQL, MSSQL
+* **Databases:** Oracle SQL, MSSQL, MySQL
 * **Version controls:** Git, GitHub, GitLab
 * **Operating systems:** Linux, Windows, MacOS
 * **Others:** OOP, SOLID, REST API, MVVM, MVC, MVI
