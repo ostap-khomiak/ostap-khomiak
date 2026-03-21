@@ -1,12 +1,12 @@
 
 ## Hi there 👋
 
-I'm Ostap, a 3rd-year Computer Science student. Currently learning Flutter and Dart.
+I'm Ostap, a 3rd-year Computer Science student.
 
 ### Tech Stack
 
-* **Languages:** Kotlin, Java, Python, C#, C++
-* **Technologies:** Jetpack Compose, Android SDK, Dagger, Hilt, Docker, Unit Tests, EF Core, Retrofit
+* **Languages:** Kotlin, Java, Python, C#, C++, Dart
+* **Technologies:** Jetpack Compose, Android SDK, Dagger, Hilt, Docker, Unit Tests, EF Core, Retrofit, Flutter
 * **Web:** JavaScript, HTML, CSS
 * **Databases:** Oracle SQL, MSSQL, MySQL
 * **Version controls:** Git, GitHub, GitLab
