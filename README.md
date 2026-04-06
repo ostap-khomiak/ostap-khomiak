@@ -5,13 +5,16 @@ I'm Ostap, a 3rd-year Computer Science student.
 
 ### Tech Stack
 
-* **Languages:** Kotlin, Java, Python, C#, C++, Dart
-* **Technologies:** Jetpack Compose, Android SDK, Dagger, Hilt, Docker, Unit Tests, EF Core, Retrofit, Flutter
-* **Web:** JavaScript, HTML, CSS
-* **Databases:** Oracle SQL, MSSQL, MySQL
-* **Version controls:** Git, GitHub, GitLab
-* **Operating systems:** Linux, Windows, MacOS
-* **Others:** OOP, SOLID, REST API, MVVM, MVC, MVI
+* **Programming Languages:** Java, Kotlin, C#, Python, C++, Dart
+* **Backend:** Node.js, REST APIs, JWT, Express, API Design, Authentication 
+* **Frontend:** React, HTML, CSS, JavaScript
+* **Mobile:** Android SDK, Jetpack Compose, Hilt, Dagger, Flutter
+* **Databases:** PL/SQL, T-SQL, MySQL
+* **Tools:** Git, Docker, Postman
+* **Concepts:** OOP, SOLID, MVC, MVVM, MVI, Unit Testing, Dependency Injection 
+
+
+
 
 
 <!--
