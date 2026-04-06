@@ -3,7 +3,7 @@
 
 I'm Ostap, a 3rd-year Computer Science student.
 
-### Tech Stack
+### **Skills**
 
 * **Programming Languages:** Java, Kotlin, C#, Python, C++, Dart
 * **Backend:** Node.js, REST APIs, JWT, Express, API Design, Authentication 
