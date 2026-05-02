@@ -11,7 +11,7 @@ I'm Ostap, a 3rd-year Computer Science student.
 * **Mobile:** Android SDK, Jetpack Compose, Hilt, Dagger, Flutter
 * **Databases:** PL/SQL, T-SQL, MySQL
 * **Tools:** Git, Docker, Postman
-* **Concepts:** OOP, SOLID, MVC, MVVM, MVI, Unit Testing, Dependency Injection 
+* **Concepts:** OOP, SOLID, DRY, KISS, MVC, MVVM, MVI, Unit Testing, Dependency Injection 
 
 
 
