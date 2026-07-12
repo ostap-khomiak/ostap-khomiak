@@ -6,10 +6,10 @@ I'm Ostap, a 3rd-year Computer Science student.
 ### **Skills**
 
 * **Programming Languages:** Java, Kotlin, C#, Python, Dart, C++
-* **Backend:** Node.js, REST APIs, JWT, Express, API Design, Authentication, EF Core
+* **Backend:** Node.js, REST APIs, JWT, Express, EF Core, Spring Boot, Hibernate
 * **Frontend:** React, HTML, CSS, JavaScript
 * **Mobile:** Android SDK, Jetpack Compose, Hilt, Dagger, Flutter
-* **Databases:** PL/SQL, T-SQL, MySQL
+* **Databases:** PostgreSQL, PL/SQL, T-SQL, MySQL
 * **Tools:** Git, Docker, Postman 
 * **Concepts:** OOP, SOLID, DRY, KISS, MVVM, MVI, Unit Testing, Dependency Injection 
 
