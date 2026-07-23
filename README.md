@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm Ostap, a 3rd-year Computer Science student.
+I'm Ostap, a 4th-year Computer Science student.
 
 ### **Skills**
 
