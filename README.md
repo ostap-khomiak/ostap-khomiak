@@ -5,7 +5,7 @@ I'm Ostap, a 4th-year Computer Science student.
 
 ### **Skills**
 
-* **Programming Languages:** Java, Kotlin, C#, Python, Dart, C++
+* **Programming Languages:** Java, Kotlin, C#, Python, Dart, C++ 
 * **Backend:** Node.js, REST APIs, JWT, Express, EF Core, Spring Boot, Hibernate
 * **Frontend:** React, HTML, CSS, JavaScript
 * **Mobile:** Android SDK, Jetpack Compose, Hilt, Dagger, Flutter
