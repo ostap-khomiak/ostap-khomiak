@@ -10,7 +10,7 @@ I'm Ostap, a 4th-year Computer Science student.
 * **Frontend:** React, HTML, CSS, JavaScript
 * **Mobile:** Android SDK, Jetpack Compose, Hilt, Dagger, Flutter
 * **Databases:** PostgreSQL, PL/SQL, T-SQL, MySQL
-* **Tools:** Git, Docker, Postman 
+* **Tools:** Git, Docker, Postman, Maven, Gradle
 * **Concepts:** OOP, SOLID, DRY, KISS, MVVM, MVI, Unit Testing, Dependency Injection 
 
 
